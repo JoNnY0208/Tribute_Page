@@ -1,0 +1,56 @@
+#main{
+  font-family: Ubuntu, sens-serif;
+  background-color: #F5F5F5;
+  border-radius: 20px;
+  color: #212121;
+  text-align: center;
+}
+h1{
+  font-family: Galada, cursive;
+}
+h4{
+  color: #607D8B;
+}
+h3{
+  text-align: center;
+  color: #616161;
+}
+#title{
+  color: #607D8B;
+  padding: 15px 0px 15px 0px;
+}
+#img-div{
+  text-align: center;
+  background-color: #9E9E9E;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+  margin: 0px 15px 0px 15px;
+}
+#img-caption{
+  padding: 15px 0px 15px 0px;
+  font-size: 15px;
+}
+#image{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+  padding: 0px 15px 0px 15px;
+}
+#tribute-info{
+  text-align: left;
+  padding: 0px 0px 10px 0px;
+}
+li{
+  margin: 10px 0px 10px 0px;
+}
+ul{
+  max-width: 700px;
+  margin: 0 auto;
+}
+blackquote{
+  text-align: center;
+  margin: 0 auto;
+  font-family: italic;
+}
